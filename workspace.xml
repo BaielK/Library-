@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c7a530-0198-4498-adc8-bfbd4da24915" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kg/alatoo/demooauth/Sender/EmailSenderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kg/alatoo/demooauth/controllers/BorrowerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kg/alatoo/demooauth/controllers/BController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kg/alatoo/demooauth/controllers/MyBookListController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kg/alatoo/demooauth/dto/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kg/alatoo/demooauth/bookdto/BookDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/1. Черный кот с рыбкой.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/19. Самолеты.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/1done.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/2. Хаски.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/2done.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/3done.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/4. Кот с наушниками.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/4done.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/585-5851373_click-here-for-flyer-kids-reading-reading-book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/5done.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/Best-Reviewed-Books.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/Instagram_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/Rectangle 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/Vimeo_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/WeChat_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/delicious-1866631_1920 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/download.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/images.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/magic-book-series-13035263.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/productImages/pngtree-retro-magic-book-png-image_5397166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/MyBooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/MyBooks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/MyBooksForUsers.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/MyBooksForUsers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bookEdit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/bookEdit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bookList.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bookList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bookListForUsers.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bookListForUsers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bookRegister.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/bookRegister.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/borrowersPages/borrowersBookEdit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/borrower/borrowersBookEdit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/borrowersPages/borrowersBookList.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/borrower/borrowersBookList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/borrowersPages/borrowersBookRegister.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/borrower/borrowersBookRegister.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/borrowersPages/borrowersMyBooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/borrower/borrowersMyBooks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/borrowersPages/borrowersPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/borrower/borrowersPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/homeForUsers.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/homeForUsers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/homeL.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/homeL.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/loginL.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/loginL.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/refreshCode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/registerL.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/registerL.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PZE2vXcdcjIXoF2M5qQ335uyoU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Elzada/OneDrive/Рабочий стол/Baiel/Final-library/final-library",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "a247c2ee7254a607f6709a6fb1e6a076",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="final-library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="final-library" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoOauthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-oauth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kg.alatoo.demooauth.DemoOauthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c7a530-0198-4498-adc8-bfbd4da24915" name="Changes" comment="" />
+      <created>1683656001319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683656001319</updated>
+      <workItem from="1683656003551" duration="1775000" />
+      <workItem from="1683700216716" duration="8235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
